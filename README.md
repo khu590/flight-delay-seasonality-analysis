@@ -30,7 +30,9 @@ Only the 2020 subset was used for this study.
 ## Visualization
 The final output is an interactive Plotly grouped horizontal bar chart showing average monthly arrival and departure delays. The visualization includes seasonal background bands, hover tooltips for precise values, and a color-blind friendly palette to improve accessibility and interpretation.
 
-<img width="1225" height="804" alt="image" src="https://github.com/user-attachments/assets/55f21c0a-598f-40c7-80c3-2772cc78a80f" />
+**The Final Graph**
+<img width="1043" height="643" alt="image" src="https://github.com/user-attachments/assets/009a5428-6107-4871-9639-f320b8fd9bbc" />
+
 
 
 ## Technologies Used
